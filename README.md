@@ -10,7 +10,6 @@ Welcome to my personal portfolio website. This is where I showcase my projects, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -55,9 +54,6 @@ To view the website, open `index.html` in your web browser:
     ```bash
     start index.html
     ```
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
