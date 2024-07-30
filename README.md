@@ -7,9 +7,6 @@ Welcome to my personal portfolio website. This is where I showcase my projects, 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Introduction
@@ -28,32 +25,6 @@ This is my first portfolio website, created to highlight my work and share my jo
 - HTML5
 - CSS3
 - JavaScript
-
-## Installation
-
-To run this website locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/JaleelADA/Landing-page
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Landing-page
-    ```
-
-## Usage
-
-To view the website, open `index.html` in your web browser:
-
-1. Open the file in a browser:
-    ```bash
-    open index.html
-    ```
-   or
-    ```bash
-    start index.html
-    ```
 
 ## Contact
 
